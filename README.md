@@ -1,1 +1,0 @@
-# AmazonByJquery-php-MySQL-master
